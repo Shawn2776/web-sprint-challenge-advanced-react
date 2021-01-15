@@ -42,3 +42,4 @@
 
 12. You can test the setup by going to the 4th step in CodeGrade. Make your first commit to the master branch and push that commit. Then goo back to CodeGrade and click the "Check for new git submission". It may take about 10 secoonds to find a new submission. After that point you should see that there is a new submission, and you're ready to work.
     Í
+    did it work?
